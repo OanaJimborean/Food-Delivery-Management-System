@@ -1,0 +1,7 @@
+Order: 3
+Date: 2022-06-20 10:16
+Client: 1
+Price: 20
+
+Products: 
+Name: Tomato Sauce  Price: 20 RON

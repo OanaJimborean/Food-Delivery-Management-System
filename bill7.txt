@@ -1,0 +1,8 @@
+Order: 7
+Date: 2022-06-21 08:36
+Client: 1
+Price: 127
+
+Products: 
+Name: Spicy Pickled Shallots  Price: 78 RON
+Name: Ethiopian Spice Tea  Price: 49 RON

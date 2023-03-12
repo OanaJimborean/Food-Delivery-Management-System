@@ -1,0 +1,7 @@
+Order: 2
+Date: 2022-06-20 01:40
+Client: 1
+Price: 98
+
+Products: 
+Name: Barbecue Rub #67  Price: 98 RON

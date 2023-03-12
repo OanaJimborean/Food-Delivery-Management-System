@@ -1,0 +1,7 @@
+Order: 8
+Date: 2022-06-21 08:37
+Client: 1
+Price: 49
+
+Products: 
+Name: Ethiopian Spice Tea  Price: 49 RON

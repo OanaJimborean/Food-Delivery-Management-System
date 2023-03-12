@@ -1,0 +1,8 @@
+Order: 1
+Date: 2022-06-20 01:36
+Client: 1
+Price: 40
+
+Products: 
+Name: Cauliflower-Leek Purée  Price: 13 RON
+Name: Fish Stock  Price: 27 RON

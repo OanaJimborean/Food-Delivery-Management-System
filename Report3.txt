@@ -1,0 +1,2 @@
+The clients that have Ordered more than 2 times and the value of the OrderBLL was higher than 1
+Client: 1

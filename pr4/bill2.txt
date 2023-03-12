@@ -1,0 +1,8 @@
+Order: 2
+Date: 2023-03-12 15:12
+Client: 1
+Price: 140
+
+Products: 
+Name: Spicy Pickled Shallots  Price: 78 RON
+Name: Red Pepper Sauce  Price: 62 RON

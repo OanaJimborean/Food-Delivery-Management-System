@@ -1,0 +1,8 @@
+Order: 4
+Date: 2022-06-20 10:19
+Client: 1
+Price: 40
+
+Products: 
+Name: Tomato Sauce  Price: 20 RON
+Name: Lemon Spice Oil  Price: 20 RON

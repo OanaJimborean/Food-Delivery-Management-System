@@ -1,0 +1,7 @@
+The products Ordered within 2022-06-20 and the number of times they have been OrderBLLed
+Product: Cauliflower-Leek Purée   Nr. of times Ordered: 1  
+Product: Fish Stock   Nr. of times Ordered: 1  
+Product: Barbecue Rub #67   Nr. of times Ordered: 1  
+Product: Tomato Sauce   Nr. of times Ordered: 2  
+Product: Lemon Spice Oil   Nr. of times Ordered: 1  
+Product: Quatre-Épices   Nr. of times Ordered: 1  
